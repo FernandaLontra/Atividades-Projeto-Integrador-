@@ -8,4 +8,5 @@ Exercício 3:
 <img width="935" alt="Atividade 07 Exercício 03" src="https://github.com/user-attachments/assets/cb0ea81a-1d1c-4632-9226-d7652add3af1">
 
 Exercício 4: 
+
 <img width="503" alt="Atividade 07 Exercício 04" src="https://github.com/user-attachments/assets/ec30e9cc-b608-4e24-97e5-f5e670835231">
